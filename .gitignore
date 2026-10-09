@@ -1,0 +1,18 @@
+# Local fixtures and downloaded reference files
+work/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# Temporary files and logs
+*.log
+*.tmp
+*.temp
+__pycache__/
+*.py[cod]
